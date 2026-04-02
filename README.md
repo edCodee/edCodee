@@ -76,11 +76,10 @@ Hands-on work with vehicle electronic systems.
 
 ## 📬 Contact & Content
 
-- YouTube: https://www.youtube.com/@edCoden  
-- TikTok: https://www.tiktok.com/@edcode  
-
-- Email: joel1ookk@gmail.com  
-- Academic: eacosta4199@uta.edu.ec  
+* **YouTube:** [@edCoden](https://www.youtube.com/@edCoden)
+* **TikTok:** [@edcode](https://www.tiktok.com/@edcode)
+* **Email:** [joel1ookk@gmail.com](mailto:joel1ookk@gmail.com)
+* **Academic:** [eacosta4199@uta.edu.ec](mailto:eacosta4199@uta.edu.ec)
 
 ---
 
